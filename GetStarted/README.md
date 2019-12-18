@@ -1,6 +1,6 @@
 # Get Started
 
-👋 Welcome! This is a private page for you to play around with. 
+👋 Welcome! This is a private page for you to play around with.
 
 Give these things a try:
 
