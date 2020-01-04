@@ -5,7 +5,6 @@
 * [Proyectos](proyectos/README.md)
   * [Productividad](proyectos/productividad.md)
 * [Política](politica.md)
-* [Priueba](priueba.md)
 * [Informática](informatica/README.md)
   * [Markdown](informatica/markdown.md)
   * [Apple](informatica/apple/README.md)
