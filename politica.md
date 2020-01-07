@@ -1,6 +1,6 @@
 # Política
 
-## Links
+Links
 
 [MAPA \| ¿De qué viven tus vecinos? Los datos de renta por fuente de ingresos, calle a calle](https://www.eldiario.es/economia/MAPA-dinero-vecinos-ingresos-calle_0_955405289.html)
 
