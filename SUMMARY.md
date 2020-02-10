@@ -11,6 +11,7 @@
     * [Mac OS X](informatica/apple/mac-os-x.md)
     * [iOS](informatica/apple/untitled-1.md)
   * [Git](informatica/git.md)
+  * [Atajos](informatica/atajos.md)
 * [Diario](diario/README.md)
   * [2020](diario/2020/README.md)
     * [Enero](diario/2020/enero.md)
