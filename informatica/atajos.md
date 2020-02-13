@@ -2,8 +2,9 @@
 
 ## Perfil Nikita
 
-1. Word
-   1. w+enter: Aceptar cambios seleccionados
+| KM | Atajo real | Resultado |
+| :--- | :--- | :--- |
+| w+enter | ^+⎇+⌘+⏎ | Aceptar cambios seleccionados en Word |
 
 
 
