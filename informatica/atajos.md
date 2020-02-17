@@ -5,7 +5,8 @@
 | KM | Atajo real | Resultado |
 | :--- | :--- | :--- |
 | w+enter | ^+⎇+⌘+⏎ | Aceptar cambios seleccionados en Word |
-|  | ⎇+⌘+R | Activar/desactivar Revisión |
+| w+r | ⎇+⌘+r | Activar/desactivar Revisión |
+| w+c | ⎇+⌘+a | Insertar comentario en Word |
 
 
 
