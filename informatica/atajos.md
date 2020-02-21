@@ -10,3 +10,12 @@
 
 
 
+Chuleta Karabiner
+
+| Abrebiatura | Tecla física |
+| :--- | :--- |
+| C | Comando |
+| O | Alt |
+| T | Control |
+| S | Shift |
+
