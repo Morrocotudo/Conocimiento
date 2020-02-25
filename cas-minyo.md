@@ -7,11 +7,12 @@
 | Olivo |  |  |
 | Níspero |  | 2 |
 | Higuera |  | 3 |
-| Aguacates | Haas | 2 |
 
 ## Árboles pendientes
 
 [Murraya koenigii](https://es.wikipedia.org/wiki/Murraya_koenigii)
 
 [Mespilus germanica - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Mespilus_germanica)
+
+
 
