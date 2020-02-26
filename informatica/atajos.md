@@ -8,7 +8,7 @@
 | w+r | ⎇+⌘+r | Activar/desactivar Revisión |
 | w+c | ⎇+⌘+a | Insertar comentario en Word |
 | e+enter | ⇧+^+⎇+⏎ | Abrir paleta de emojis |
-
+| - | ⇧+⌘+r | Insertar referencia cruzada en Word |
 
 
 Chuleta Karabiner
