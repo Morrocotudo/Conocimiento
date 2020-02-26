@@ -2,6 +2,7 @@
 
 ## Perfil Nikita
 
+<<<<<<< HEAD
 | KM | Atajo real | Resultado |
 | :--- | :--- | :--- |
 | w+enter | ^+⎇+⌘+⏎ | Aceptar cambios seleccionados en Word |
