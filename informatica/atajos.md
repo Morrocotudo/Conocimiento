@@ -18,14 +18,13 @@
 | e+enter | ⇧+^+⎇+⏎ |  | Abrir paleta de emojis |
 | - | ⇧+⌘+r | Word | Insertar referencia cruzada en Word |
 
-### Word
+### Spotify
 
 | Atajo Karabiner | Atajo real | Via | Resultado |
 | :--- | :--- | :--- | :--- |
 | s+a |  | Alfred | Añadir canción a... |
 | s+c |  | Alfred | Añadir canción actual a la playlist Mi Concentración |
 | s+j |  | Alfred | Añadir canción actual a la playlist Mi lista de jazz |
-| w+c | ⎇+⌘+a | Word | Insertar comentario en Word |
 
 Chuleta Karabiner
 
