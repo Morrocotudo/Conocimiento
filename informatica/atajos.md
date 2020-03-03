@@ -10,6 +10,7 @@
 | w+i | ? | Insertar referencia bibliográfica en Word |
 | w+f | ? | Insertar fila de tabla en Word |
 | w+n | ^+⎇+⇧+n | Mostrar barra de navegación en Word |
+| w+p | ⇧+⌘+p | Personalizar teclado en Word |
 | e+enter | ⇧+^+⎇+⏎ | Abrir paleta de emojis |
 | - | ⇧+⌘+r | Insertar referencia cruzada en Word |
 
