@@ -1,3 +1,7 @@
+---
+description: Gran parte de ellos son gracias a Karabiner
+---
+
 # Atajos
 
 ## Perfil Nikita

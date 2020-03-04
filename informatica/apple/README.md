@@ -2,7 +2,7 @@
 
 ## Sistemas Operativos
 
-[Mac OS X](mac-os-x.md)
+[Mac OS X](mac-os-x/)
 
 [iOS](untitled-1.md)
 
