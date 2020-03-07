@@ -1,5 +1,5 @@
 ---
-description: Gran parte de ellos son gracias a Karabiner
+description: Gran parte de ellos son gracias a Karabiner+Keyboard Maestro
 ---
 
 # Atajos
@@ -8,7 +8,7 @@ description: Gran parte de ellos son gracias a Karabiner
 
 ### Word
 
-| Atajo Karabiner | Atajo real | Via | Resultado |
+| Atajo Final | Atajo real | Via | Resultado |
 | :--- | :--- | :--- | :--- |
 | w+enter | ^+⎇+⌘+⏎ |  | Aceptar cambios seleccionados en Word |
 | w+c | ⎇+⌘+a | Word | Insertar comentario en Word |
@@ -24,11 +24,21 @@ description: Gran parte de ellos son gracias a Karabiner
 
 ### Spotify
 
-| Atajo Karabiner | Atajo real | Via | Resultado |
+| Atajo Final | Atajo real | Via | Resultado |
 | :--- | :--- | :--- | :--- |
 | s+a |  | Alfred | Añadir canción a... |
 | s+c |  | Alfred | Añadir canción actual a la playlist Mi Concentración |
 | s+j |  | Alfred | Añadir canción actual a la playlist Mi lista de jazz |
+| s+spacebar | - | KM | PLay/Pause Spotify |
+
+### Finder
+
+| Atajo Final | Atajo real | Via | Resultado |
+| :--- | :--- | :--- | :--- |
+| ^+g |  | KM | Copiar ruta de archivo en Finder |
+
+
+
 
 Chuleta Karabiner
 
