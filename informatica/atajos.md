@@ -8,19 +8,21 @@ description: Gran parte de ellos son gracias a Karabiner+Keyboard Maestro
 
 ### Word
 
-| Atajo Final | Atajo real | Via | Resultado |
+| Atajo Final | Atajo real | Via | Comando (Word) | Resultado |
 | :--- | :--- | :--- | :--- |
-| w+enter | ^+⎇+⌘+⏎ |  | Aceptar cambios seleccionados en Word |
-| w+c | ⎇+⌘+a | Word | Insertar comentario en Word |
-| w+f | ? |  | Insertar fila de tabla en Word |
-| w+i | ? |  | Insertar referencia bibliográfica en Word |
-| w+l | ⇧+⌘+i |  | Cambiar idioma \(Lenguaje\) del texto seleccionado en Word |
-| w+n | ^+⎇+⇧+n | Word | Mostrar barra de navegación en Word |
-| w+p | ⇧+⌘+p | Funciones rápidas | Personalizar teclado en Word |
-| w+r | ⎇+⌘+r | Word | Activar/desactivar Revisión |
-| w+t | ⇧+⌘+t | Word | Insertar título a objeto en Word |
-| e+enter | ⇧+^+⎇+⏎ |  | Abrir paleta de emojis |
-| - | ⇧+⌘+r | Word | Insertar referencia cruzada en Word |
+| w+enter | ^+⎇+⌘+⏎ |  |  | Aceptar cambios seleccionados en Word |
+| w+c | ⎇+⌘+a | Word |  | Insertar comentario en Word |
+| w+f | ? |  |  | Insertar fila de tabla en Word |
+| w+i | ? |  |  | Insertar referencia bibliográfica en Word |
+| w+l | ⇧+⌘+i |  |  | Cambiar idioma \(Lenguaje\) del texto seleccionado en Word |
+| w+n | ^+⎇+⇧+n | Word |  | Mostrar barra de navegación en Word |
+| w+p | ⇧+⌘+p | Funciones rápidas |  | Personalizar teclado en Word |
+| w+r | ⎇+⌘+r | Word |  | Activar/desactivar Revisión |
+| w+t | ⇧+⌘+t | Word |  | Insertar título a objeto en Word |
+| e+enter | ⇧+^+⎇+⏎ |  |  | Abrir paleta de emojis |
+| - | ⇧+⌘+r | Word |  | Insertar referencia cruzada en Word |
+| - | ^+⎇+⌘+c | Word | SelectorColorFuente | Aplica el color de fuente seleccionado en Word |
+
 
 ### Spotify
 
