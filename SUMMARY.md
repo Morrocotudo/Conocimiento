@@ -16,5 +16,8 @@
 * [Diario](diario/README.md)
   * [2020](diario/2020/README.md)
     * [Enero](diario/2020/enero.md)
+    * [Febrero] 
+    * [Marzo]
+      * [Coronavirus] (textos/Coronavirus-fin-del-mundo.md)
 * [Ca's Minyó](cas-minyo.md)
 
