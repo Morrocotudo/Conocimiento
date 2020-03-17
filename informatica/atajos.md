@@ -17,7 +17,7 @@ description: Gran parte de ellos son gracias a Karabiner+Keyboard Maestro
 | w+l | ⇧+⌘+i |  |  | Cambiar idioma \(Lenguaje\) del texto seleccionado en Word |
 | w+n | ^+⎇+⇧+n | Word |  | Mostrar barra de navegación en Word |
 | w+p | ⇧+⌘+p | Funciones rápidas |  | Personalizar teclado en Word |
-| w+r | ⎇+⌘+r | Word |  | Activar/desactivar Revisión |
+| w+espacio | ⎇+⌘+r | Word |  | Activar/desactivar Revisión |
 | w+t | ⇧+⌘+t | Word |  | Insertar título a objeto en Word |
 | e+enter | ⇧+^+⎇+⏎ |  |  | Abrir paleta de emojis |
 | - | ⇧+⌘+r | Word |  | Insertar referencia cruzada en Word |
