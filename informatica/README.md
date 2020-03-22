@@ -2,6 +2,8 @@
 
 ## [Markdown](markdown.md)
 
+## Python
+
 ## [Apple](apple/)
 
 ## [Git](git.md)

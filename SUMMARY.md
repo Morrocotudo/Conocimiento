@@ -6,6 +6,7 @@
   * [Productividad](proyectos/productividad.md)
 * [Política](politica.md)
 * [Informática](informatica/README.md)
+  * [Python](informatica/python.md)
   * [Markdown](informatica/markdown.md)
   * [Apple](informatica/apple/README.md)
     * [Mac OS X](informatica/apple/mac-os-x/README.md)
