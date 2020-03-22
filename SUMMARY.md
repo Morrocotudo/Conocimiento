@@ -16,8 +16,8 @@
 * [Diario](diario/README.md)
   * [2020](diario/2020/README.md)
     * [Enero](diario/2020/enero.md)
-    * [Febrero] (diario/2020/febrero/README.md)
-    * [Marzo] (diario/2020/marzo/README.md)
-      * [Coronavirus] (diario/2020/marzo/Coronavirus-fin-del-mundo.md)
+    * [\[Febrero\] \(diario/2020/febrero/README.md\)](diario/2020/febrero-diario-2020-febrero-readme.md.md)
+    * [\[Marzo\] \(diario/2020/marzo/README.md\)](diario/2020/marzo-diario-2020-marzo-readme.md/README.md)
+      * [\[Coronavirus\] \(diario/2020/marzo/Coronavirus-fin-del-mundo.md\)](diario/2020/marzo-diario-2020-marzo-readme.md/coronavirus-diario-2020-marzo-coronavirus-fin-del-mundo.md.md)
 * [Ca's Minyó](cas-minyo.md)
 

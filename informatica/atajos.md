@@ -8,8 +8,8 @@ description: Gran parte de ellos son gracias a Karabiner+Keyboard Maestro
 
 ### Word
 
-| Atajo Final | Atajo real | Via | Comando (Word) | Resultado |
-| :--- | :--- | :--- | :--- |
+| Atajo Final | Atajo real | Via | Comando \(Word\) | Resultado |
+| :--- | :--- | :--- | :--- | :--- |
 | w+enter | ^+⎇+⌘+⏎ |  |  | Aceptar cambios seleccionados en Word |
 | w+c | ⎇+⌘+a | Word |  | Insertar comentario en Word |
 | w+f | ? |  |  | Insertar fila de tabla en Word |
@@ -22,7 +22,6 @@ description: Gran parte de ellos son gracias a Karabiner+Keyboard Maestro
 | e+enter | ⇧+^+⎇+⏎ |  |  | Abrir paleta de emojis |
 | - | ⇧+⌘+r | Word |  | Insertar referencia cruzada en Word |
 | - | ^+⎇+⌘+c | Word | SelectorColorFuente | Aplica el color de fuente seleccionado en Word |
-
 
 ### Spotify
 
@@ -38,9 +37,6 @@ description: Gran parte de ellos son gracias a Karabiner+Keyboard Maestro
 | Atajo Final | Atajo real | Via | Resultado |
 | :--- | :--- | :--- | :--- |
 | ^+g |  | KM | Copiar ruta de archivo en Finder |
-
-
-
 
 Chuleta Karabiner
 

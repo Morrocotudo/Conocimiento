@@ -15,3 +15,7 @@
 
 [Mespilus germanica - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Mespilus_germanica)
 
+[Citrus × hystrix - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Citrus_%C3%97_hystrix)
+
+[Galangal - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Galangal)
+
