@@ -2,7 +2,8 @@
 
 * [Initial page](README.md)
 * [Referentes](referentes.md)
-* [Proyectos](proyectos/README.md)
+* [Habilidades](proyectos/README.md)
+  * [Teletrabajo](proyectos/teletrabajo.md)
   * [Productividad](proyectos/productividad.md)
 * [Política](politica.md)
 * [Informática](informatica/README.md)
