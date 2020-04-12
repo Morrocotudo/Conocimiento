@@ -2,7 +2,7 @@
 
 ## [Teletrabajo](teletrabajo.md)
 
-## [Productividad](productividad.md)
+## [Productividad](productividad/)
 
 ## Artículos
 
