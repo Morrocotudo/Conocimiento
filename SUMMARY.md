@@ -9,6 +9,7 @@
   * [Knowledge Base](proyectos/knowledge-base.md)
 * [Política](politica.md)
 * [Informática](informatica/README.md)
+  * [Aplicaciones](informatica/aplicaciones.md)
   * [Editores de texto](informatica/editores-de-texto/README.md)
     * [Sublime Text](informatica/editores-de-texto/sublime-text.md)
   * [Lenguajes de programacion](informatica/lenguajes-de-programacion/README.md)
