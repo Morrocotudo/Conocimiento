@@ -18,3 +18,5 @@ Intro:
 
 [The Collector’s Fallacy • Zettelkasten Method](https://zettelkasten.de/posts/collectors-fallacy/)
 
+[How to ADHD](https://howtoadhd.com/)
+
