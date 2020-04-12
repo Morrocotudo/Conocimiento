@@ -1,6 +1,6 @@
 # Informática
 
-## [Markdown](markdown.md)
+## [Markdown](lenguajes-de-programacion/markdown.md)
 
 ## Python
 
