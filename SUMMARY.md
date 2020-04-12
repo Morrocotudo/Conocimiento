@@ -5,6 +5,7 @@
 * [Habilidades](proyectos/README.md)
   * [Teletrabajo](proyectos/teletrabajo.md)
   * [Productividad](proyectos/productividad.md)
+  * [Knowledge Base](proyectos/knowledge-base.md)
 * [Política](politica.md)
 * [Informática](informatica/README.md)
   * [Python](informatica/python.md)
