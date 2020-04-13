@@ -12,7 +12,7 @@
   * [Aplicaciones](informatica/aplicaciones.md)
   * [Editores de texto](informatica/editores-de-texto/README.md)
     * [Sublime Text](informatica/editores-de-texto/sublime-text.md)
-  * [Lenguajes de programacion](informatica/lenguajes-de-programacion/README.md)
+  * [Programacion](informatica/lenguajes-de-programacion/README.md)
     * [Python](informatica/lenguajes-de-programacion/python.md)
     * [Markdown](informatica/lenguajes-de-programacion/markdown.md)
   * [Apple](informatica/apple/README.md)
