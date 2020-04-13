@@ -14,8 +14,6 @@ Intro:
 
 ## Links
 
-[Zettelkasten — How One German Scholar Was So Freakishly Productive](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125)
-
 [The Collector’s Fallacy • Zettelkasten Method](https://zettelkasten.de/posts/collectors-fallacy/)
 
 [How to ADHD](https://howtoadhd.com/)
