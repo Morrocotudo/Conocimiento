@@ -16,6 +16,8 @@ Intro:
 
 [Sustainability over speed: adopting asynchronous communication - Ness Labs](https://nesslabs.com/asynchronous-communication)
 
+## [Método Zettelkasten](metodo-zettelkasten.md)
+
 ## Links
 
 [The Collector’s Fallacy • Zettelkasten Method](https://zettelkasten.de/posts/collectors-fallacy/)
