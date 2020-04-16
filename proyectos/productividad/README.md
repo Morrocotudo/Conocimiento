@@ -12,6 +12,10 @@ Intro:
 3. Hacer un seguimiento del trabajo hecho y de la previsión de tiempo hecho
 {% endhint %}
 
+## Comunicación Asíncrona
+
+[Sustainability over speed: adopting asynchronous communication - Ness Labs](https://nesslabs.com/asynchronous-communication)
+
 ## Links
 
 [The Collector’s Fallacy • Zettelkasten Method](https://zettelkasten.de/posts/collectors-fallacy/)
