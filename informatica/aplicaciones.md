@@ -20,5 +20,7 @@ Gestor de wikis con capacidad de links bidireccionales
 
 [buggyj/savetiddlers](https://github.com/buggyj/savetiddlers)
 
+## RSS
 
+[RSS-Bridge/rss-bridge: The RSS feed for websites missing it](https://github.com/RSS-Bridge/rss-bridge)
 
