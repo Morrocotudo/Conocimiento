@@ -22,6 +22,8 @@ description: Gran parte de ellos son gracias a Karabiner+Keyboard Maestro
 | e+enter | ⇧+^+⎇+⏎ |  |  | Abrir paleta de emojis |
 | - | ⇧+⌘+r | Word |  | Insertar referencia cruzada en Word |
 | - | ^+⎇+⌘+c | Word | SelectorColorFuente | Aplica el color de fuente seleccionado en Word |
+| w+s |  | Word |  | Resalta el texto seleccionado en word |
+| w+r |  | Word |  | Selecciona el párrafo actual y lo resalta |
 
 ### Spotify
 
