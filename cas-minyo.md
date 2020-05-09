@@ -8,6 +8,7 @@
 | Níspero | Salvaje | 2 |
 | Higuera |  | 3 |
 | Aguacates | Haas | 2 |
+| Manzano |  | 2 |
 
 ## Árboles pendientes
 
