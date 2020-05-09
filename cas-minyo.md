@@ -9,6 +9,7 @@
 | Higuera |  | 3 |
 | Aguacates | Haas | 2 |
 | Manzano |  | 2 |
+| [Níspero europeo](https://es.wikipedia.org/wiki/Mespilus_germanica) |  | 1 |
 
 ## Árboles pendientes
 
