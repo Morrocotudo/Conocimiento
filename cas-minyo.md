@@ -5,7 +5,7 @@
 | Especie | Variedad | Cantidad |
 | :--- | :--- | :--- |
 | Olivo |  |  |
-| Níspero |  | 2 |
+| Níspero | Salvaje | 2 |
 | Higuera |  | 3 |
 | Aguacates | Haas | 2 |
 
